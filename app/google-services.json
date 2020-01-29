@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "804147525345",
+    "firebase_url": "https://lernin-b7790.firebaseio.com",
+    "project_id": "lernin-b7790",
+    "storage_bucket": "lernin-b7790.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:804147525345:android:efc869d9a9e987ed97a9a0",
+        "android_client_info": {
+          "package_name": "com.example.lernin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "804147525345-1hsf3pefl1c7hhp97ucjg1b73hakm7kn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.lernin",
+            "certificate_hash": "f0f862264b79d186baad0d0442f1bf105eed2c9d"
+          }
+        },
+        {
+          "client_id": "804147525345-fuhc8oia8r0k76op0chrov623p26el6v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBP8sSh-OLs07OyVBD9nIht0Vt81ohwcIY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "804147525345-fuhc8oia8r0k76op0chrov623p26el6v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
